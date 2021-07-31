@@ -1,6 +1,6 @@
 ## 🎉 Cobol.nvim 🚧
 
-Collection of useful utilities for COBOL development in neovim. It's lua-update of some cool [plugins](README.md#credits).
+Collection of useful utilities for COBOL development in neovim. It's lua-update of some cool [plugins](#Credits).
 
 ### 🌟 Features
 
@@ -69,7 +69,7 @@ vim.g.cobol_syntax_checker_check_on_write = 1
 vim.g.cobol_syntax_checker_loc_auto_open_close = 1
 ```
 
-### 🔗 Credits ©️
+### 🔗 Credits
 
 [vim-cobol-syntax-checker](https://github.com/emmanuelgrognet/vim-cobol-syntax-checker) 
 
