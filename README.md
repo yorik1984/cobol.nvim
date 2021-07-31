@@ -72,6 +72,7 @@ vim.g.cobol_syntax_checker_loc_auto_open_close = 1
 ### 🔗 Credits ©️
 
 [vim-cobol-syntax-checker](https://github.com/emmanuelgrognet/vim-cobol-syntax-checker) 
+
 [vim-cobol](https://github.com/emmanuelgrognet/vim-cobol-syntax-checker) 
 
 ### 👥 Contributions
