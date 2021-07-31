@@ -1,6 +1,6 @@
 ## 🎉 Cobol.nvim 🚧
 
-Collection of useful utilities for COBOL development in neovim. It's lua-update of some cool [plugins](#Credits).
+Collection of useful utilities for COBOL development in neovim. It's lua-update of some cool [plugins](#-credits).
 
 ### 🌟 Features
 
